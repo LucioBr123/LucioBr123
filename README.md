@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciobr123&label=Profile%20views&color=0e75b6&style=flat" alt="luciobr123" /> </p>
 
 
-- 🌱 I’m currently learning **Vue.js, reactnative, node, sql.**
+- 🌱 I’m currently learning **JS, TS, NODE, SQL, TDD.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
