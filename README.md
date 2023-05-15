@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luciobr123&label=Profile%20views&color=0e75b6&style=flat" alt="luciobr123" /> </p>
 
 
-- 🌱 I’m currently learning **DELPHI > SQL > JS > PY **
+- 🌱 I’m currently learning **DELPHI > SQL > JS > PY**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
